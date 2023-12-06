@@ -33,8 +33,8 @@
 
 ![alterar ](https://github.com/DyogoH/CyberNexuxProject/assets/140459642/0be6a088-1c0f-41fe-9502-9a1a95fb54ba)
 
-##Carlos Oliveira
-##Dyogo Henrique 
+## Carlos Oliveira
+## Dyogo Henrique 
 
 
 
